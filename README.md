@@ -27,6 +27,9 @@ Feel free to add your own. There isn't really a common theme.
 - [Product Opportunity Assessment](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
 - [Product Vision](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_VISION)
 
+### Delivery
+- [project documentation](https://cs.uns.edu.ar/~ldm/mypage/data/oc/info/guia_para_la_documentacion_de_proyectos_de_software.pdf)
+
 ## License
 
 Creative Commons Zero v1.0 Universal [Read more](https://github.com/kbariotis/templates/blob/master/LICENSE)
